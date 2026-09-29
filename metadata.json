@@ -1,0 +1,6 @@
+{
+  "name": "Star Rewards - Mukofot Yig'ish Websayti",
+  "description": "Zamonaviy va interaktiv mukofot yig'ish platformasi. Yulduzchalar yig'ing va virtual sovg'alarga almashtiring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
